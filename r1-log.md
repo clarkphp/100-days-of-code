@@ -4,16 +4,17 @@ Started on 2020 August 13
 
 ## Log
 
-### R1D2
-**Today's Progress:** Getting back to Rust, after a too-long hiatus. Read some of *The Rust Programming Language* book from
-https://www.rust-lang.org/. Gathered resources for learning Microsoft Transact-SQL.
+### R1D2 2020 August 15
+**Today's Progress:** Getting back to Rust, after a too-long hiatus. Completed through chapter 2 of *The Rust Programming
+Language* book from https://www.rust-lang.org/. Gathered resources for learning Microsoft Transact-SQL.
 
-**Thoughts:** Realized these rounds may not necessarily be "100 days" in length, but rather of whatever duration each project dictates.
-The point is to continually and incrementally improve and progress.
+**Thoughts:** Realized these rounds may not necessarily be "100 days" in length, but rather of whatever duration each project
+dictates. The point is to continually and incrementally improve and progress. I'll be spending a *lot of time* learning deeply
+along separate dimensions: Rust programming language, DB2 SQL PL, Transact-SQL, and transpilation.
 
-**Link to work:** Project repo, later today
+**Link to work:** https://github.com/clarkphp/rustbook (I don't have the other subject matter info documented yet).
 
-### R1D1
+### R1D1 2020 August 14
 **Today's Progress:** Tailored my 100DaysOfCode fork some more. Learned how to set Git default branch name to "main" instead
 of "master," and learned how to rename master branch in existing repositories.
 
@@ -23,7 +24,7 @@ for stored procedures, functions, DDL, and DML. Read about transpilation, lexers
 **Thoughts:** Thorsten Ball's [Writing An Interpreter In Go](https://interpreterbook.com/) is a good book. Haven't messed
 with interpreters much since undergrad school. 32 years ago?!
 
-**Link to work:** This, I guess: https://gist.github.com/clarkphp/43561ea739a0a31958c57f259adef2cd
+**Link to work:** What I learned about "main" and "master" branches https://gist.github.com/clarkphp/43561ea739a0a31958c57f259adef2cd
 
 ### R1D0 2020 August 13
 **Today's Progress:** Prep day before really getting started. Tailored my fork of 100DaysOfCode repository. Thought about

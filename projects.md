@@ -9,6 +9,8 @@ Some project ideas holding various levels of interest:
   - Sleep monitor (EEG)
   - and more
 - Strength Training Log App
+- various decentralized, blockchain-based applications
+  (various ideas; need to assess their utility)
 - County/Region/State Property Tax Home Price (and other data) Visualizer
 - Autonomous Lawn Mower
 - Mailbox Opened/Bumped/Approached (don't ask...)
