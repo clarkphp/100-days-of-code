@@ -2,7 +2,8 @@
 
 Some project ideas holding various levels of interest:
 
-- Daily COVID-19 Web Site Data Scraper (underway since March; need to share it)
+- Daily COVID-19 Tennessee Dept. of Health Web Site Data Scraper (underway since March; need to share it)
+- Analysis of Quality of PHP libraries in Packagist Universe (started 2016-ish, ongoing in fits and starts)
 - Health Tracker
   - Blood pressure
   - Heart rate
