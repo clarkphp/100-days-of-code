@@ -4,6 +4,15 @@ Started on 2020 August 13
 
 ## Log
 
+### R1D2 2020 August 16
+**Today's Progress:** Read *create procedure* syntax for [DB2 for i](https://www.ibm.com/support/knowledgecenter/en/ssw_ibm_i_74/db2/rbafzcrtpsf.htm)
+and [SQL Server](https://docs.microsoft.com/en-us/sql/t-sql/statements/create-procedure-transact-sql?view=sql-server-ver15)
+Completed chapter of [The Rust Programming Language](https://doc.rust-lang.org/book/).
+
+**Thoughts:** I'm enjoying messing about with Rust. Compilers FTW. Still haven't documented the SQL subject matter info; just read documentation.
+
+**Link to work:** https://github.com/clarkphp/rustbook/tree/main/src
+
 ### R1D2 2020 August 15
 **Today's Progress:** Getting back to Rust, after a too-long hiatus. Completed through chapter 2 of *The Rust Programming
 Language* book from https://www.rust-lang.org/. Gathered resources for learning Microsoft Transact-SQL.
